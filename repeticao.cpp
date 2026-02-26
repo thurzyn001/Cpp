@@ -1,0 +1,13 @@
+#include <iostream>
+
+using namespace std;
+
+int main() {
+
+    int numeros[3] = {10, 20, 30};
+
+    for (int i = 1; i < 3; i++) {
+        cout << numeros[i] << endl;
+    }
+
+}
